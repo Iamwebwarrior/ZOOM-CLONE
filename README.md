@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # ZOOM clone
 
 hello to people visiting this page this is zoom clone which is build with node js
@@ -31,7 +29,7 @@ Anyone who wishes to conduct a free meeting (with or without video) has to just 
 
 #TECHNOLOGY USED
 
->>>>>>> 6a7ae3a9872caed2994d7ddcaded675363c19395
+
  1) Node.js
  2) Express JS
  3) CSS
